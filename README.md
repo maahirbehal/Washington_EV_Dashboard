@@ -49,3 +49,35 @@ Excel Reporting
 ---
 
 ## 📊 Files Included
+
+washington-ev-adoption-tableau-dashboard/
+│
+├── Dashboard/
+│ └── Washington EV Dashboard.twb
+│
+├── Dataset/
+│ └── Electric_Vehicle_Population_Data.xlsx
+│
+├── Screenshots/
+│ ├── Dashboard.png
+│ ├── make&model.png
+│ └── map.png
+│
+└── README.md
+
+---
+
+## 📊 Business Impact Perspective
+While this project focuses on Washington State EV data, the analytical approach reflects real world business reporting scenarios.
+
+Understanding regional adoption patterns can support strategic decisions such as market expansion planning, infrastructure investment prioritisation and manufacturer performance tracking. By identifying trends across vehicle types, geographic regions and time, dashboards like this can help stakeholders move from raw data to structured insight generation.
+
+The emphasis throughout this project was on clarity, usability and decision focused reporting rather than simply presenting charts. Features such as parameter driven filtering, make and model hierarchies and consistent dashboard level interactions were designed to simulate how business users explore data to answer evolving questions.
+
+---
+
+## ✅ Conclusion
+This project represents part of my ongoing analytics journey focused on building dashboards that combine technical data visualisation skills with business oriented thinking. My goal is to design solutions that bring structure to data, clarity to decisions and meaningful business insights for stakeholders.
+
+I continue to develop projects aligned with Business Analytics, Data Analytics and data driven decision making, with a strong focus on practical problem solving and clear communication through data.
+
